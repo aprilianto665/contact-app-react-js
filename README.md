@@ -5,22 +5,34 @@ My Kontak adalah aplikasi manajemen kontak sederhana berbasis React JS. Aplikasi
 Proyek ini merupakan bagian dari submission kelas Belajar Membuat Aplikasi Web dengan React di platform Dicoding.
 
 # 📸 Tampilan Aplikasi
+![Screenshot 2025-04-22 at 20 44 20](https://github.com/user-attachments/assets/bb9a4bd0-2b9f-46f3-af62-38c6568544ea)
+![Screenshot 2025-04-22 at 20 47 58](https://github.com/user-attachments/assets/c6a36c97-3a16-446c-894a-4a2515c1a8e7)
 
-![image](https://github.com/user-attachments/assets/fc2d402e-8427-4c76-a78a-1f0e30188a6c)
 
 # ✨ Fitur
 
-✅ Tambah Kontak: Form input untuk nama dan username kontak.
+✅ Tambah Kontak: Form input terpisah di halaman khusus untuk menambahkan nama dan username kontak. Setelah kontak berhasil ditambahkan, pengguna akan secara otomatis diarahkan ke halaman daftar kontak.
 
 ✅ Daftar Kontak: Menampilkan daftar kontak yang sudah ditambahkan lengkap dengan avatar default (jika tidak ada gambar).
 
 ✅ Hapus Kontak: Tombol "X" untuk menghapus kontak dari daftar secara langsung.
 
+✅ Pencarian Kontak: Fitur pencarian kontak berdasarkan query parameter pada URL (?keyword=), sehingga pengguna bisa membagikan atau menyimpan link hasil pencarian.
+
 # 🛠️ Teknologi
 
-- React JS (create-react-app)
-
+* React JS (create-react-app)
+* React Router DOM – untuk navigasi antar halaman
+* PropTypes – untuk validasi tipe data props
+* React Icons – untuk ikon tombol hapus dan elemen UI lainnya
 * CSS sederhana untuk styling
+
+# ▶️ Cara Menjalankan Proyek
+* npm install
+* npm install react-router-dom
+* npm install prop-types
+* npm install react-icons
+* npm run dev
 
 # 📚 Tentang Submission Ini
 
