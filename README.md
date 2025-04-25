@@ -29,9 +29,6 @@ Proyek ini merupakan bagian dari submission kelas Belajar Membuat Aplikasi Web d
 
 # ▶️ Cara Menjalankan Proyek
 * npm install
-* npm install react-router-dom
-* npm install prop-types
-* npm install react-icons
 * npm run dev
 
 # 📚 Tentang Submission Ini
