@@ -4,9 +4,11 @@ My Kontak adalah aplikasi manajemen kontak sederhana berbasis React JS. Aplikasi
 
 Proyek ini merupakan bagian dari submission kelas Belajar Membuat Aplikasi Web dengan React di platform Dicoding.
 
-# 📸 Tampilan Aplikasi
+# Tampilan Aplikasi
 
-![image](https://github.com/user-attachments/assets/fc2d402e-8427-4c76-a78a-1f0e30188a6c)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px">
+  <img src="https://cdn.discordapp.com/attachments/1355259701637419051/1371855076859183204/Screenshot_2025-05-13_at_21.22.10.png?ex=6824a71a&is=6823559a&hm=1bcefef781c9246353b9a5b3d1801cab51c6f8bf6a260bbcf2e0ed297645e25f&" alt="BookshelfApp1" width="400"/>
+</div>
 
 # ✨ Fitur
 
